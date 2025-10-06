@@ -1,0 +1,9 @@
+Student Number: 2209
+Last Name: Halimao
+First Name: Kryste
+Middle Initial: f
+Program: bsit
+Age: 20
+Gender: F
+Birthday: 22
+Contact Number: 09123456779
